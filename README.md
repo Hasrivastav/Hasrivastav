@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MERN ,IOT , DSA**
 
-- 📫 How to reach me **harshsrivastav2111@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
